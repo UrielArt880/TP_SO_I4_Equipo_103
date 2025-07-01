@@ -1,0 +1,11 @@
+ A- ¿Qué color de fondo tiene su página en el TESTING ? Azul
+ B- ¿Qué color de fondo tiene su página en el DESARROLLO ? Amarillo
+ C- ¿Qué color de fondo tiene su página en el MASTER? Verde (igualmente, notifica que todo está al día al realizar el merge como corresponde.)
+ D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA? BETA
+E- ¿Algún integrante tuvo problemas al hacer el push? Si
+ F- ¿Qué problemas surgieron? Da error porque no permite sobreescribir el progreso de quien realizo push previamente sin antes realizar un pull
+ G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+ adoptada? Cada quien realiza pull de manera correspondiente, no sin antes recibir aviso o checkear las ultimas versiones aplicadas en github, ahorrandose dichos problemas.
+ H- ¿Qué sucede si cada uno utiliza el push-f? se Fuerza el push, ocasionado una sobreescritura de lo que escribieron previamente
+ I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+ en DESARROLLO primero estructurarlo de manera ordenada donde cada integrante realiza un pull luego del push del integrante previo y luego se realiza merge con DESARROLLO
